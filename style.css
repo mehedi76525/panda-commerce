@@ -1,0 +1,23 @@
+
+.container{
+    margin-bottom: 100px;
+}
+
+.orange-bg{
+    background-color: #feeae9;
+    border-radius: 5px;
+
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.by-now-button{
+    color: #ffffff;
+    background-color: #ff136f;
+    padding:5px 10px ;
+    border-radius: 7px;
+    font-weight: 600;
+}
